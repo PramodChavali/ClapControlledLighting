@@ -21,4 +21,10 @@ Anyways here's the finished thing:
 
 I can turn them on with claps:
 
+https://github.com/user-attachments/assets/253d6a09-1d2c-4beb-aeb3-7d466f4767e4
+
 And even control the brighness with gestures!
+
+https://github.com/user-attachments/assets/fce13843-81da-47ec-b273-306f05a521f6
+
+_It's kinda subtle on the video, but works great IRL!_
